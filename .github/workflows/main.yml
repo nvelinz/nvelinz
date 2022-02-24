@@ -12,8 +12,8 @@ jobs:
       API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+#      - name: Checkout
+#        uses: actions/checkout@v2
 
       - name: Push Folder
         uses: dmnemec/copy_file_to_another_repo_action@main
