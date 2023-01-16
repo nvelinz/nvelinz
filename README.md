@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nvelinz
-- 👀 I’m interested in front-end coding, Jquery, VueJS, UX / UI Design
-- 🌱 I’m currently learning VueJS
+- 👀 I’m interested in UX / UI Design
 - 📫 How to reach me https://nicolaivelzel.nl
 
 <!---
